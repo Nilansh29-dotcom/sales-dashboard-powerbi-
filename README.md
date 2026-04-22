@@ -34,4 +34,4 @@ An interactive dashboard built using Power BI to analyze sales performance and b
 - screenshots
 
 ##  Note
-Due to publishing limitations, the dashboard is shared via PBIX file and pdfs.
+Due to publishing limitations, the dashboard is shared via PBIX file and screenshots.
